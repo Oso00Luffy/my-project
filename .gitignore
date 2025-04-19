@@ -1,0 +1,17 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# مجلدات بيئة التطوير
+node_modules/
+venv/
+__pycache__/
+
+# إعدادات IDE
+.vscode/
+.idea/
+
+# ملفات الحزم
+*.log
+*.zip
+*.env
